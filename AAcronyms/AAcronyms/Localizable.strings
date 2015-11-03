@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  AAcronyms
+
+  Created by Dileep Nair on 11/2/15.
+  Copyright (c) 2015 Dileep Nair. All rights reserved.
+*/
+
+"STR_APP_NAME"      = "AAcronym";
+"STR_ENTER_ACRONYM" = "Enter Acronym";
+"STR_NO_RESULTS"    = "No results found";
+"STR_OK"            = "Ok";
+"STR_NO_INTERNET_CONN"  = "No Internet Connection";
